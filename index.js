@@ -6,5 +6,5 @@ var greetSpecialGuest = "Hello, " + specialGuest + "!" ;
 
 var topic = "space";
 
-var conversation = "Let\'s talk about " + topic + ". This was really stupid."
+var conversation = "Let\'s talk about " + topic + "."
 
